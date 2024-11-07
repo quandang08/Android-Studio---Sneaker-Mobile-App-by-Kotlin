@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164490853262",
+    "project_id": "sneakerappgroup4",
+    "storage_bucket": "sneakerappgroup4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164490853262:android:e4dabe48d5ff9007d442df",
+        "android_client_info": {
+          "package_name": "com.example.sneakerapp_group4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs6otto6eYHmZH1ss8GgP7qyXSYEcif7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
